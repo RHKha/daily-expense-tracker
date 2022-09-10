@@ -21,4 +21,3 @@
 * Support 8 Different Currency.
 * Dark theme support.
 
-<hr>
